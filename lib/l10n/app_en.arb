@@ -1,0 +1,63 @@
+{
+  "language": "Language",
+  "login": "Login",
+  "@login": {
+    "description": "a login"
+  },
+  "already": "Already have an account ?",
+  "@already": {
+    "description": "Already have an account ?"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "email"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password"
+  },
+  "signup": "Sign Up",
+
+  "addProduct": "Add Product",
+
+  "product": "Products",
+  "productList": "Product List",
+  "profile": "Profile",
+  "wait": "Please wait...",
+  "logout": "Logout",
+  "fullName": "Full Name",
+  "imageSelect": "Please select an image",
+  "productName": "Product Name",
+  "productDetail": "Product Detail",
+  "productPrice": "Product Price",
+  "submit": "Submit",
+  "delete": "Delete",
+  "update": "Update",
+  "emailRequired": "Email is required",
+  "validEmail": "Please provide a valid email",
+  "passwordRequired": "Password is required",
+  "passwordLength": "Password must be at least 6 character",
+  "biometricLogin": "Biometric Login",
+  "enableBiometricLogin": "Enable Biometric Login",
+
+
+
+
+
+
+
+
+
+
+  "one": "1" ,
+  "two": "2" ,
+  "three": "3" ,
+  "four": "4" ,
+  "five": "5" ,
+  "six": "6" ,
+  "seven": "7" ,
+  "eight": "8" ,
+  "nine": "9" ,
+  "zero": "0",
+  "rs": "Rs."
+}
